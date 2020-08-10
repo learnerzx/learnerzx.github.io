@@ -1188,7 +1188,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #c4bf7f;
+  background: #0dffdb;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2341,7 +2341,7 @@ body {
   opacity: 0.9;
 }
 .header-inner {
-  background: rgba(255,255,255,0.9);
+  background: rgba(255,255,255,0);
 }
 .popup {
   opacity: 0.9;
@@ -2349,5 +2349,5 @@ body {
 .site-brand-container {
   background-image: url("/images/log-small.png");
   background-size: 100% 100%;
-  opacity: 0;
+  opacity: 0.9;
 }
